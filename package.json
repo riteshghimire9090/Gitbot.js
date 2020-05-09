@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riteshghimire9090/Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riteshghimire9090/Testing/issues"
+  },
+  "homepage": "https://github.com/riteshghimire9090/Testing#readme",
+  "dependencies": {
+    "jsonfile": "^6.0.1",
+    "moment": "^2.25.3",
+    "random": "^2.2.0",
+    "simple-git": "^2.4.0"
+  }
+}

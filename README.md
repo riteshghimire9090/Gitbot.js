@@ -11,6 +11,7 @@ Use the package manager Npm to install Gitbot.js.
 First fork the project
 second git clone the project
 npm install
+node index.js
 ```
 
 

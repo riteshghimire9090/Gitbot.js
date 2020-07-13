@@ -8,11 +8,15 @@ Gitbot.js is a Node.js script changing the graph of GitHub. This is only for edu
 Use the package manager Npm to install Gitbot.js.
 
 ```bash
-First fork the project
-second git clone the project
+Give star and Follow me!
+```
+```bash
+Fork the project
+Clone the project
 npm install
 node index.js
 ```
+
 
 
 ```
